@@ -1,9 +1,6 @@
 # Predicting Loan Approval Using Machine Learning
 
-**INFO 213: Data Science Programming II**  
-College of Computing and Informatics, Drexel University  
 **Authors:** Janhi Ong, Jayda Foo  
-**Date:** May 20, 2025
 
 ## 📌 Project Overview
 
